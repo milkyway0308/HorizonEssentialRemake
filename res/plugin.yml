@@ -1,0 +1,5 @@
+name: HorizonEssentials
+version: 1.0-REMAKE
+main: skywolf46.HorizonEssential.HorizonEssential
+softdepend:
+  - IntegratedMessageUtil
